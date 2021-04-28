@@ -1,0 +1,8 @@
+platform:ios, '10.0'
+target 'SimpleTableViewController' do
+use_frameworks!
+
+pod 'HandyJSON'
+
+end
+  
